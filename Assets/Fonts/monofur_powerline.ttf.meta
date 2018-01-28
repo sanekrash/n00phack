@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 9bcb1f6e59e564c4eb4766ad80db6a10
+timeCreated: 1509831980
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: monofur for Powerline
+  fontNames:
+  - monofur for Powerline
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
